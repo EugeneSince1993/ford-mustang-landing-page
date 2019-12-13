@@ -119,7 +119,7 @@ img {
 /* Section 2 - Start */
 .section-2 {
   position: relative;
-  background-image: url('../img/rear.png');
+  background-image: url('../img/rear.webp');
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
