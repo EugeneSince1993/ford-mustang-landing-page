@@ -37,3 +37,9 @@ $(window).scroll(function() {
   });
 });
 /* Fade in element on scroll - End */
+// Introduction text - fade in
+$(document).ready(
+  function () {
+    $('div#introduction').fadeIn(3000);
+  }
+);
