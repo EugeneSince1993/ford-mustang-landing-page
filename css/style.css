@@ -344,7 +344,7 @@ img {
 }
 @media (max-width: 1400px) {
   .section-1 {
-    padding: 17vmin 0 0;
+    padding: 16vmin 0 14vmin;
   }
   .section-1 img {
     width: 32rem;
@@ -438,6 +438,7 @@ img {
     display: none;
   }
   .section-1 {
+    padding: 14vmin 0;
     height: 100%;
   }
   .section-1 .container {
